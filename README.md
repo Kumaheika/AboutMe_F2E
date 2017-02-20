@@ -17,13 +17,7 @@
 ---
 
 ## Professional Skill:
-#### UI/UX
-- 熟悉 App workflow 規劃
-- 了解不同裝置、解析，設計規格 UI
-- 使用 Prototype(Flinto) 工具，提升溝通效率
-- 使用 Zepline 標示 UI，加速開發
-
-#### html
+#### Html
 - Jade(Pug)
 
 #### CSS / Frontend Design
@@ -37,12 +31,18 @@
 - 善用 Ajax 與後端 API 合作
 - 使用 Vuejs 管理資料與模板
 
+#### UI/UX
+- 熟悉 App workflow 規劃
+- 了解不同裝置、解析，設計規格 UI
+- 使用 Prototype(Flinto) 工具，提升溝通效率
+- 使用 Zepline 標示 UI，加速開發
+
 #### Design Tool
 - 熟悉 Photoshop / Illustrator / Flash
 - 善用 Sketch
 
 #### 自動化工具
-- Prepos / Gulp
+- Prepos / Fireapp / Gulp
 
 #### 版本控制
 - Git / GitHub
@@ -53,7 +53,7 @@
 ---
 
 ## 工作經歷
-- 新蛋科技有限公司 **(在職)** **(2015/07~)** - UI/UX Designer、Front-End
+- 新蛋科技有限公司 **(在職)** **(2015/07~)** - UI/UX Designer & Front-End
   - App - NeweggBox UI/UX design
   - App –Newegg Read UI//UX design
   - App Prototype ( HTML5 / CSS / jQuery )
@@ -61,7 +61,7 @@
   - PT WebServer 系統網頁開發 ( 串接 RESTful API /  Semantic UI )
   - NeweggBox 雲端運算的商業運用網站 ( 串接 RESTful API /  Bootstrap3)
   - NeweggBox 活動報名系統入口網站前、後台開發 ( 串接 RESTful API /  Bootstrap3 )
-  - Help Center 後臺控制系統 ( 使用 Vuejs / jQ / Bootstrap3 )
+  - Help Center 後臺控制系統 ( Vuejs / jQ / Bootstrap3 )
 
 - 高雄醫學大學附設中和紀念醫院 **(2012/07~2015/07)** - Designer
   - 高醫腎好App(Android、ios) UI 設計
@@ -89,6 +89,7 @@
 ---
 
 ## 目前2017目標
-- Vue.js 2.0
+- 熟練 Vue.js 2.0
+- React Native
 - Sketch
 - 資訊圖表化整理
