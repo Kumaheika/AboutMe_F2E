@@ -29,7 +29,7 @@
 - Javascript / JQuery
 - 撰寫 JQuery Plugin 功能模組化
 - 善用 Ajax 與後端 API 合作
-- 使用 Vuejs 管理資料與模板
+- 使用 Vuejs 開發 One Page Application
 
 #### UI/UX
 - 熟悉 App workflow 規劃
@@ -61,7 +61,7 @@
   - PT WebServer 系統網頁開發 ( 串接 RESTful API /  Semantic UI )
   - NeweggBox 雲端運算的商業運用網站 ( 串接 RESTful API /  Bootstrap3)
   - NeweggBox 活動報名系統入口網站前、後台開發 ( 串接 RESTful API /  Bootstrap3 )
-  - Help Center 後臺控制系統 ( Vuejs / jQ / Bootstrap3 )
+  - Help Center 後臺控制系統 ( Vuejs / Bootstrap3 )
 
 - 高雄醫學大學附設中和紀念醫院 **(2012/07~2015/07)** - Designer
   - 高醫腎好App(Android、ios) UI 設計
