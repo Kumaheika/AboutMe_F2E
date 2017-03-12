@@ -48,7 +48,7 @@
 - Git / GitHub
 
 #### IDE
-- Atom / Sublime
+- VS Code / Atom / Sublime
 
 ---
 
